@@ -163,6 +163,7 @@ textfield.grid(row=0, column=1, padx=5, pady=5)
 # Add a listbox to select which ePo server will be queried
 eposerverlabel = Tkinter.Label(top,text="ePo server:")
 eposerverlabel.grid(row=1, column=0, padx=5, pady=5)
+
 # Read stings of servers from settings file to add them to the spin box
 # If no servers are present in the settings.conf file than a text field
 # will be added instead
