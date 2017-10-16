@@ -7,3 +7,4 @@ Frideborg can search the ePo for hosts, users and IP addresses. It can also assi
 Using Frideborg you can for example delete a great number of old decommisioned hosts from the ePo without having to search for them one by one.
 Frideborg is simply a time saver and you can use it interact with multiple ePo servers.
 
+It should be compatible with all version of the ePo server, but don't take my word for it.
